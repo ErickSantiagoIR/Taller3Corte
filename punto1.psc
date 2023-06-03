@@ -4,7 +4,7 @@ Algoritmo CalcularVolumenCono
     radiobase <- 14.5
     altura <- 26.79
 	
-    volumen <- (PI * radiobase * radiobase * altura) / 3
+    volumen <- (numeropi * radiobase * radiobase * altura) / 3
 	
     Escribir"El volumen del cono es: ", volumen
 FinAlgoritmo
